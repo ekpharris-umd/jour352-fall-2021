@@ -1,0 +1,73 @@
+body {
+	font-family: Open Sans, Arial, sans-serif;
+	font-size: 1em;
+	color: #444;
+	font-weight: 400;
+}
+
+/* Top of the page */
+
+#name {
+	font-size: 3em;
+	color:#33485e;
+	text-transform: uppercase;
+	border-bottom: solid 1px #33485e;
+	width: 60%;
+	min-width: 300px;
+	margin: 0 auto;
+}
+
+img {
+	display: none;
+}
+
+b {
+	text-transform: uppercase;
+	font-size: 1.5em;
+	color: #33485e;
+}
+
+/* Sections */
+
+h2 {
+	font-size: 1.5em;
+	text-transform: uppercase;
+	background-color: #33485e;
+	color: white;
+	font-weight: 400;
+}
+
+h3 {
+	font-weight: 600;
+	font-size: 1.5em;
+}
+
+h4{
+	font-weight: 400;
+	font-size: 1.5em;
+}
+
+h6 {
+	font-weight: 400;
+	font-style: italic;
+	font-size: 1em;
+}
+
+ul li {
+	font-size: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
